@@ -1,0 +1,7 @@
+70,Astou,juin,2020
+263,ndioufa,avril,2015
+245,alioune,juin,2010
+95,Birahim,janvier,2030
+334,mariama,avril,2020
+263,yacine,juillet,2019
+57,zeynabou,septembre,2050

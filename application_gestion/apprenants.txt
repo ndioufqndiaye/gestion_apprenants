@@ -1,0 +1,7 @@
+Astou,359,diop,tapha,1999-06-04,767890956,diop@gmail.com,1
+ndioufa,871,ndiaye,ndioufa,1995-10-28,771024816,ndioufaj@gmail.com,1
+alioune,99,ngom,mamadou,2009-10-28,781205688,abdou@gmail.com,0
+ndioufa,902,diop,zeynab,2000-09-29,704567890,seyna@gmail.com,1
+Birahim,83,gueye,fatou,2016-10-29,78120568,alou@gmail.com,1
+Birahim,529,gueye,fatou,2016-10-29,78120568,alou@gmail.com,1
+mariama,776,ba,fatou,2020-02-01,78120568,alous@gmail.com,1
